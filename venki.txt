@@ -1,3 +1,8 @@
 satement apollo satelight
 man
  earth
+ moon
+ sun 
+ planets
+ galaxy
+ stars
